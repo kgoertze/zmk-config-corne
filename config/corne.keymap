@@ -214,7 +214,7 @@
             // |  TAB |  Q  |  W  |  E  |  R  |  T  |   |  Y  |  U   |  I  |  O  |  P  | BKSP |
             // | CTRL |  A  |  S  |  D  |  F  |  G  |   |  H  |  J   |  K  |  L  |  ;  |  '   |
             // | SHFT |  Z  |  X  |  C  |  V  |  B  |   |  N  |  M   |  ,  |  .  |  /  | ESC  |
-            //                    | GUI | ENT | LWR |   | RSE | SPC  | ALT |
+            //                    | GUI | LWR | ENT |   | SPC | RSE  | ALT |
 
             bindings = <
 &kp TAB       &kp Q             &kp W        &kp F                &kp P              &kp B        &kp J      &kp L               &kp U                 &kp Y             &kp SEMICOLON     &kp ESCAPE
